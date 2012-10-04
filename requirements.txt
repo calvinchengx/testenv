@@ -1,0 +1,12 @@
+Django==1.4.1
+Fabric==1.4.3
+-e git://github.com/fabric-colors/fabric-colors@927c4cb35cd57282d5f912c111fb295bf4aa9946#egg=Fabric_Colors-dev
+PIL==1.1.7
+colorama==0.2.4
+configobj==4.7.2
+distribute==0.6.28
+django-autoslug==1.6.1
+psycopg2==2.4.5
+pycrypto==2.6
+ssh==1.7.14
+wsgiref==0.1.2
