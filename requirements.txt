@@ -1,4 +1,4 @@
-Django==1.4.1
+Django==2.2.28
 Fabric==1.4.3
 -e git://github.com/fabric-colors/fabric-colors@927c4cb35cd57282d5f912c111fb295bf4aa9946#egg=Fabric_Colors-dev
 PIL==1.1.7
